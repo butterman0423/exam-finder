@@ -63,8 +63,8 @@ function App() {
             onChange={handleChange} />
           <button type="submit">Search</button>
         </form>
-        <p>{outputData}</p>
       </div>
+      <p>{outputData}</p>
     </div>
   );
 }
