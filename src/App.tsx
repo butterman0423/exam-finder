@@ -67,6 +67,9 @@ function App() {
       <div id="outputSection">
         {outputData}
       </div>
+      <footer>
+        <p>Created by Saikarthik Mummadisingu, Nathaniel Andre Escaro, Esat Adiloglu and Ryan Eshan</p>
+      </footer>
     </div>
   );
 }

@@ -1,32 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+}
 .App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
   text-align: center;
+  overflow-y: auto;
+  padding: 20px;
 }
 h1 {
   font-size: 50px;  
   font-weight: bold;
   text-decoration: underline;
+  margin-bottom: 20px;
 }
 #finalInput{
   display: flex;
   flex-direction: column;
+  align-items: center;
   justify-content: center;
-  position: relative;
-  top: 125px;
+  margin-top: 50px;
 }
 #finalInput > p {
   font-size: 20px;
+  margin-bottom: 20px;
 }
 #finalInput > form {
   display: flex;
   flex-direction: row;
-  justify-content: center;
   align-items: center;
 }
 #finalInput > form > input {
   height: 3rem;
   width: 20rem;
   font-size: 30px;
-  margin: 5px;
+  margin: 0 10px;
+  padding: 5px 10px;
   border: 1px solid black;
   border-radius: 10px; 
 }
@@ -35,8 +51,26 @@ h1 {
   height: 3rem;
   width: 15rem;
   font-size: 30px;
+  border: none;
+  border-radius: 10px;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+#finalInput > form > button:hover {
+  background-color: #45a049;
 }
 #outputSection {
-  position: relative;
-  top: 250px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 20px;
+  margin-top: 20px;
+  background-color: #f1f1f1;
+  padding: 10px 0;
 }
