@@ -1,3 +1,45 @@
+# READ ME
+
+Please run `npm i` before running any of the npm run commands.
+
+To keep ourselves organized, I made 2 branches `dev` and `main`.
+- `dev` will be our development branch. This is where our ongoing changes will go to.
+- `main` is meant for stable releases. This is so we can easily rollback to a working version in case we break something horribly
+
+## Local Branching
+
+Furthermore, make your local changes to a separate local branch on your system.
+It could be whatever you want to call it like:
+
+branch/your-name
+So mine would be branch/nathaniel for example.
+
+Either way, you won't have to push this branch to the github repo. This branch will stay locally on your device.
+Think of this as your local `dev` branch.
+Please do this so that we dont (potentially) experience multiple conflicts when we all try to push our changes.
+
+### Copying to your local branch
+
+Very simple procedure:
+```
+git pull --all
+git switch your-local-branch
+git rebase dev
+```
+
+\**If needed you can run `git fetch --all` to grab all remote branches before `git pull`*
+
+Why this? It'll keep the overall commit history of the project clean.
+
+## Pushing changes
+
+```
+git switch dev
+git merge your-local-branch
+```
+
+**Conflicts may still be possible, resolve them the best you can.**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
