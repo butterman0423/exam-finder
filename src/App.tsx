@@ -42,8 +42,8 @@ function App() {
   return (
     <div className="App">
       <h1>Final Exam Finder</h1>.
-      <div className="finalInput">
-        <p>Please put in your class</p>
+      <div id="finalInput">
+        <p>Please put in your class infomation</p>
         <form onSubmit={handleSubmit}>
           <label htmlFor="classInput"></label>
           <input 
@@ -64,7 +64,9 @@ function App() {
           <button type="submit">Search</button>
         </form>
       </div>
-      <p>{outputData}</p>
+      <div id="outputSection">
+        {outputData}
+      </div>
     </div>
   );
 }

@@ -1,30 +1,42 @@
 .App {
   text-align: center;
 }
-
-.finalInput{
+h1 {
+  font-size: 50px;  
+  font-weight: bold;
+  text-decoration: underline;
+}
+#finalInput{
   display: flex;
   flex-direction: column;
   justify-content: center;
+  position: relative;
+  top: 125px;
 }
-.finalInput > p {
+#finalInput > p {
   font-size: 20px;
 }
-.finalInput > form {
+#finalInput > form {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
 }
-.finalInput > form > input {
+#finalInput > form > input {
   height: 3rem;
   width: 20rem;
   font-size: 30px;
   margin: 5px;
+  border: 1px solid black;
+  border-radius: 10px; 
 }
-.finalInput > form > button{
+#finalInput > form > button{
   display: block;
   height: 3rem;
-  width: 10rem;
+  width: 15rem;
   font-size: 30px;
+}
+#outputSection {
+  position: relative;
+  top: 250px;
 }
