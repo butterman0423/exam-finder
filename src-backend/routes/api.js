@@ -1,4 +1,5 @@
 const express = require('express');
+const pg = require('pg');
 const route = express.Router();
 
 // Query exam date of :class and :section
