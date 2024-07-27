@@ -2,22 +2,32 @@ import React from 'react';
 import { useState } from 'react';
 import './App.css';
 
+// const fetchCourseFinals = async () => {
+//   try{
+//     const response = await fetch();
+//     const data = response.json();
+//   }
+//   catch(error){
+//     alert("Whoops, something went wrong. Please try again.");
+//     console.log(error);
+//   }
+// }
 interface OutputFinalProps {
   data: string
 }
 interface GetFinalProps {
-  classname: string,
+  courseName: string,
   section: string
 }
-
+//Outputs final data
 const OutputFinal: React.FC<OutputFinalProps> = ({data}) => {
   return (
     <h1>{data}</h1>
   )
 }
-
-const GetFinal: React.FC<GetFinalProps> = ({classname,section}) => {
-  return <OutputFinal data={classname} />
+//Gets the final data
+const GetFinal: React.FC<GetFinalProps> = ({courseName,section}) => {
+  return <OutputFinal data={courseName} />
 }
 
 function App() {
@@ -31,12 +41,19 @@ function App() {
     const {name, value} = e.target;
     setFinalData({
       ...finalData,
-      [name]: value,
+      [name]: value.toUpperCase(),
     });
   };
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    setOutputData(<GetFinal classname={finalData.classInput} section={finalData.sectionInput} />)
+    if(finalData.classInput.replace(/([A-Z][A-Z][A-Z]?[\s-]?([0-9][0-9][0-9]))/,"")){
+      alert("Please provide a valid class");
+      return null;
+    }
+    else{
+      const classInput = finalData.classInput.replace(/([A-Z])[-]?(\d)/, '$1 $2');
+      setOutputData(<GetFinal courseName={classInput} section={finalData.sectionInput} />);
+    }
   }
 
   return (
