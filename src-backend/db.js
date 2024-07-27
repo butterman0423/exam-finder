@@ -21,7 +21,7 @@ const createAndFillTable = async () => {
         {
             await pool.query(`CREATE DATABASE finals_database`);
             console.log("Creating finals database");
-            
+            console.log("New pool");
             pool = new Pool({
                 user: process.env.DB_USER,
                 host: process.env.DB_HOST,
@@ -40,6 +40,8 @@ const createAndFillTable = async () => {
                     instructor VARCHAR(50)
                 )
             `);
+
+            console.log("Create final_exams table");
 
             let csvData = [];
             let csvStream = fastcsv
@@ -63,7 +65,7 @@ const createAndFillTable = async () => {
                                 row['Building and Room(s)'],
                                 row['Instructor']
                             ]);
-                            console.log("Inserted row:", row);
+                            //console.log("Inserted row:", row);
                         } catch (err) {
                             console.log(err.stack);
                         }
@@ -71,8 +73,11 @@ const createAndFillTable = async () => {
                 });
 
             stream.pipe(csvStream);
+        }else{
+            console.log("Database exists");
         }
-    } catch (error) {
+    } 
+    catch (error) {
         console.log(error);
     }
 };
