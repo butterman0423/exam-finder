@@ -3,8 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+.logo {
+  width: 100px; /* Adjust width as needed */
+  height: 100px; /* Adjust height as needed */
+  /* display: block;
+  margin: 0;
+  padding: 0; */
+}
+
 html, body {
   height: 100%;
+  font-family: Consolas;
 }
 .App {
   display: flex;
@@ -18,7 +27,7 @@ html, body {
 h1 {
   font-size: 50px;  
   font-weight: bold;
-  text-decoration: underline;
+  /* text-decoration: underline; */
   margin-bottom: 20px;
 }
 #finalInput{

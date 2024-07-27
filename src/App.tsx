@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
 import './App.css';
+import { ReactComponent as StevensDucksLogo } from './Stevens_Ducks.svg';
 
 // const fetchCourseFinals = async () => {
 //   try{
@@ -58,7 +59,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Final Exam Finder</h1>.
+      <h1>Final Exam Finder</h1>
+      <StevensDucksLogo className='logo'/>
       <div id="finalInput">
         <p>Please put in your class infomation</p>
         <form onSubmit={handleSubmit}>
