@@ -2,32 +2,35 @@ import React from 'react';
 import { useState } from 'react';
 import './App.css';
 
-// const fetchCourseFinals = async () => {
-//   try{
-//     const response = await fetch();
-//     const data = response.json();
-//   }
-//   catch(error){
-//     alert("Whoops, something went wrong. Please try again.");
-//     console.log(error);
-//   }
-// }
+const getFinalsData = async (e:any) => {
+  try {
+    e.preventDefault();
+    const response = await fetch("https://localhost:3000/api/finals/BIA 500/A");
+    const data = await response.json();
+    console.log(data);
+  }
+  catch (error){
+    console.log(`Uh oh: ${error}`);
+  }
+}
+
+
 interface OutputFinalProps {
   data: string
 }
 interface GetFinalProps {
-  courseName: string,
+  classname: string,
   section: string
 }
-//Outputs final data
+
 const OutputFinal: React.FC<OutputFinalProps> = ({data}) => {
   return (
     <h1>{data}</h1>
   )
 }
-//Gets the final data
-const GetFinal: React.FC<GetFinalProps> = ({courseName,section}) => {
-  return <OutputFinal data={courseName} />
+
+const GetFinal: React.FC<GetFinalProps> = ({classname,section}) => {
+  return <OutputFinal data={classname} />
 }
 
 function App() {
@@ -41,19 +44,12 @@ function App() {
     const {name, value} = e.target;
     setFinalData({
       ...finalData,
-      [name]: value.toUpperCase(),
+      [name]: value,
     });
   };
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    if(finalData.classInput.replace(/([A-Z][A-Z][A-Z]?[\s-]?([0-9][0-9][0-9]))/,"")){
-      alert("Please provide a valid class");
-      return null;
-    }
-    else{
-      const classInput = finalData.classInput.replace(/([A-Z])[-]?(\d)/, '$1 $2');
-      setOutputData(<GetFinal courseName={classInput} section={finalData.sectionInput} />);
-    }
+    setOutputData(<GetFinal classname={finalData.classInput} section={finalData.sectionInput} />)
   }
 
   return (
@@ -61,7 +57,7 @@ function App() {
       <h1>Final Exam Finder</h1>.
       <div id="finalInput">
         <p>Please put in your class infomation</p>
-        <form onSubmit={handleSubmit}>
+        <form onSubmit={getFinalsData}>
           <label htmlFor="classInput"></label>
           <input 
             required
@@ -84,9 +80,6 @@ function App() {
       <div id="outputSection">
         {outputData}
       </div>
-      <footer>
-        <p>Created by Saikarthik Mummadisingu, Nathaniel Andre Escaro, Esat Adiloglu and Ryan Eshan</p>
-      </footer>
     </div>
   );
 }
