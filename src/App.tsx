@@ -3,17 +3,16 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import { ReactComponent as StevensDucksLogo } from './Stevens_Ducks.svg';
 
-const getFinalsData = async () => {
-  try {
-    const response = await fetch("https://localhost:3000/api/finals/BIA 500/A");
-    const data = await response.json();
-    console.log(data);
-  }
-  catch (error){
-    console.log(`Uh oh: ${error}`);
-  }
-}
-
+// const fetchCourseFinals = async () => {
+//   try{
+//     const response = await fetch();
+//     const data = response.json();
+//   }
+//   catch(error){
+//     alert("Whoops, something went wrong. Please try again.");
+//     console.log(error);
+//   }
+// }
 interface OutputFinalProps {
   data: string
 }
@@ -39,10 +38,6 @@ function App() {
   });
   const [outputData, setOutputData] = useState<React.ReactNode>(null)
 
-  useEffect(() => {
-    getFinalsData();
-  })
-
   const handleChange = (e: any) => {
     const {name, value} = e.target;
     setFinalData({
@@ -60,7 +55,7 @@ function App() {
       <StevensDucksLogo className='logo'/>
       <div id="finalInput">
         <p>Please put in your class infomation</p>
-        <form onSubmit={getFinalsData}>
+        <form onSubmit={handleSubmit}>
           <label htmlFor="classInput"></label>
           <input 
             required
