@@ -63,7 +63,7 @@ function App() {
 
         console.log(json);
 
-        setOutputData(json);
+        setOutputData(json[0]);
         //setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
     } catch(e) {
       console.error(e);
