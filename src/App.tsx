@@ -62,6 +62,10 @@ function App() {
         const json = await dat.json();
 
         console.log(json);
+        if(json === undefined) {
+          alert(`${classInput} ${sectionInput} does not exist`);
+          return;
+        }
 
         setOutputData(json[0]);
         //setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
