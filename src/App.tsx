@@ -38,7 +38,7 @@ function App() {
     classInput: "",
     sectionInput: "",
   });
-  const [outputData, setOutputData] = useState<React.ReactNode>(null)
+  const [outputData, setOutputData] = useState<{ [key: string]: string }>({})
 
   /*
   useEffect(() => {
@@ -63,7 +63,8 @@ function App() {
 
         console.log(json);
 
-        setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
+        setOutputData(json);
+        //setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
     } catch(e) {
       console.error(e);
     }
@@ -96,7 +97,7 @@ function App() {
         </form>
       </div>
       <div id="outputSection">
-        {outputData}
+        <h1>{finalData.classInput}, {finalData.sectionInput}</h1>
       </div>
     </div>
   );
