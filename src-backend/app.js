@@ -15,9 +15,12 @@ app.use(express.static(path.join(__dirname, '../build')));
 app.use('/api/finals', apiRoute);
 
 const PORT = process.env.PORT || 3000;
+/*
 app.listen(PORT, () => {
      console.log(`App listening on port ${PORT}/`);
 });
+*/
+app.listen(3000, '0.0.0.0');
 
 /*
 createAndFillTable()
