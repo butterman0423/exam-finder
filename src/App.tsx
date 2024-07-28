@@ -63,8 +63,7 @@ function App() {
 
         console.log(json);
         if(json === undefined) {
-          alert(`${classInput} ${sectionInput} does not exist`);
-          return;
+          throw Error(`${classInput} ${sectionInput} does not exist`)
         }
 
         setOutputData(json[0]);
