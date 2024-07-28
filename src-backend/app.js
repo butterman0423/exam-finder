@@ -14,13 +14,13 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, '../build')));
 app.use('/api/finals', apiRoute);
 
-const PORT = process.env.PORT || 3000;
+const PORT = 10000;
 /*
 app.listen(PORT, () => {
      console.log(`App listening on port ${PORT}/`);
 });
 */
-app.listen(3000, '0.0.0.0');
+app.listen(PORT, '0.0.0.0');
 
 /*
 createAndFillTable()
