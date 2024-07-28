@@ -58,7 +58,7 @@ function App() {
     const { classInput, sectionInput } = finalData;
     
     try {
-        const dat = await fetch(`/api/${classInput}/${sectionInput}`);
+        const dat = await fetch(`/api/finals/${classInput}/${sectionInput}`);
         const json = await dat.json();
 
         setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
