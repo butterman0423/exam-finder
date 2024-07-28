@@ -40,9 +40,11 @@ function App() {
   });
   const [outputData, setOutputData] = useState<React.ReactNode>(null)
 
+  /*
   useEffect(() => {
     getFinalsData();
   })
+  */
 
   const handleChange = (e: any) => {
     const {name, value} = e.target;
@@ -51,9 +53,19 @@ function App() {
       [name]: value,
     });
   };
-  const handleSubmit = (e: any) => {
+  const handleSubmit = async (e: any) => {
     e.preventDefault();
-    setOutputData(<GetFinal classname={finalData.classInput} section={finalData.sectionInput} />)
+    const { classInput, sectionInput } = finalData;
+    
+    try {
+        const dat = await fetch(`/api/${classInput}/${sectionInput}`);
+        const json = await dat.json();
+
+        setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
+        setFinalData({ ...finalData, classInput: '', sectionInput: '' })
+    } catch(e) {
+      console.error(e);
+    }
   }
 
   return (
