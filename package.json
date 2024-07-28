@@ -21,11 +21,16 @@
     "node": "^20.16.0",
     "fast-csv": "^5.0.1",
     "gapi-script": "^1.2.0",
+<<<<<<< HEAD
+=======
+    "node": "^20.16.0",
+>>>>>>> 18447ed (version 8)
     "nodemon": "^3.1.4",
     "express": "^4.19.2",
     "pg": "^8.12.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-google-calendar-api": "^2.3.0",
     "react-google-calendar-api": "^2.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
