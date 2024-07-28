@@ -14,7 +14,6 @@ const getFinalsData = async () => {
   }
 }
 
-
 interface OutputFinalProps {
   data: string
 }
@@ -55,7 +54,6 @@ function App() {
     e.preventDefault();
     setOutputData(<GetFinal classname={finalData.classInput} section={finalData.sectionInput} />)
   }
-
   return (
     <div className="App">
       <h1>Final Exam Finder</h1>
