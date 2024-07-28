@@ -97,7 +97,11 @@ function App() {
         </form>
       </div>
       <div id="outputSection">
-        <h1>{finalData.classInput}, {finalData.sectionInput}</h1>
+        {
+          Object.keys(outputData).length > 0 ? 
+          <h1>{outputData['day_date']}, {outputData['building_room']}</h1> :
+          ""
+        }
       </div>
     </div>
   );
