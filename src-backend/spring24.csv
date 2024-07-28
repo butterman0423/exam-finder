@@ -1,0 +1,599 @@
+﻿Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+AAI 551_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Joseph Helsing
+AAI 551_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Joseph Helsing
+AAI 551_C,"Monday, May 13, 2024",11:30 AM,2:30 PM,Kidde 360,Joseph Helsing
+AAI 627_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Carnegie 316,Yu-Dong Yao
+AAI 646_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Gateway North 204,Hong Man
+AAI 695_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Burchard 111,Shucheng Yu
+AAI 695_B,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway North 204,Jiarui Li
+ACC 200_A,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Babbio 321,Elaine Henry
+ACC 200_B,"Friday, May 10, 2024",7:00 PM,10:00 PM,Babbio 104,Ryan Wynne
+ACC 200_C,"Friday, May 10, 2024",7:00 PM,10:00 PM,Babbio 122,Ryan Wynne
+ACC 200_D,"Friday, May 10, 2024",7:00 PM,10:00 PM,Babbio 122,Ryan Wynne
+ACC 215_A,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Carnegie 315,Jing Chen
+ACC 215_B,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Carnegie 316,Jing Chen
+ACC 215_C,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Gateway South 122,Joon Ho Kong
+ACC 215_D,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Gateway South 122,Joon Ho Kong
+ACC 312_A,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Babbio 203,Frank Manzi
+ACC 421_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,North Building 104,Arion Cheong
+ACC 510_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Gateway South 122,Frank Manzi
+ACC 510_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 122,Frank Manzi
+BIA 500_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,McLean 211,Gerry Libby
+BIA 500_B,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Library B15,Brian Mueller
+BIA 652_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Gateway North 213,Choudur Lakshminarayan
+BIA 652_B,"Monday, May 13, 2024",11:30 AM,2:30 PM,Burchard 103,Choudur Lakshminarayan
+BIA 654_B,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Martha Bayard Stevens Hall 203,Choudur Lakshminarayan
+BIA 672_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 216,Khashayar Dehnad
+BIA 672_C,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Library B15,Khashayar Dehnad
+BIO 101_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Peirce 116,Faith Kim
+,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+BIO 101_B,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Kidde 360,Denver Baptiste
+BIO 291_A,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Howe 303 (Fielding),Marcin Iwanicki
+BIO 382_A,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Morton 103,Paola DiMarzio
+BIO 392_A,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Gateway South 121,Brunella Taddeo
+BIO 508_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 220,Paola DiMarzio
+BIO 508_A_U,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 220,Paola DiMarzio
+BIO 526_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 221,Marcin Iwanicki
+BIO 526_A_U,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 221,Marcin Iwanicki
+BIO 586_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 319,Ansu Perekatt
+BIO 690_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 310,William Windsor
+BME 322_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 222,Peter Popolo
+BME 343_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Gateway South 122,Carrie Perlman
+BME 343_B,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Gateway South 122,Carrie Perlman
+BME 465_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 219,Shang Wang
+BME 503_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Burchard 514,George McConnell
+BME 503_A_U,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Burchard 514,George McConnell
+BME 503_B,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Burchard 514,Becky Tucci
+BME 503_B_U,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Burchard 514,Becky Tucci
+BME 556_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 122,Raviraj Nataraj
+BME 556_A_U,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 122,Raviraj Nataraj
+BME 556_B_U,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 122,Raviraj Nataraj
+BME 561_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,North Building 101,Antonia Zaferiou
+BME 690_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 310,William Windsor
+BT 243_D,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Babbio 104,Mario Gonzalez-Corzo
+BT 243_E,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Babbio 320,Mario Gonzalez-Corzo
+BT 243_F,"Saturday, May 4, 2024",11:30 AM,2:30 PM,Babbio 319,Jorge Medina
+BT 244_A,"Friday, May 10, 2024",8:00 AM,11:00 AM,Gateway North 204,Justine Herve
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+BT 244_B,"Friday, May 10, 2024",8:00 AM,11:00 AM,Gateway North 204,Justine Herve
+BT 244_C,"Friday, May 10, 2024",8:00 AM,11:00 AM,Babbio 122,Jorge Medina
+BT 244_D,"Friday, May 10, 2024",8:00 AM,11:00 AM,Babbio 122,Jorge Medina
+BT 301_A,"Monday, May 13, 2024",3:00 PM,6:00 PM,McLean 106,Jose Tribo Gine
+BT 301_B,"Monday, May 13, 2024",3:00 PM,6:00 PM,McLean 106,Jose Tribo Gine
+BT 301_C,"Monday, May 13, 2024",3:00 PM,6:00 PM,Burchard 111,Sohyun Park
+BT 301_D,"Monday, May 13, 2024",3:00 PM,6:00 PM,Burchard 111,Sohyun Park
+BT 301_E,"Monday, May 13, 2024",3:00 PM,6:00 PM,Burchard 111,Sohyun Park
+BT 360_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Babbio 321,Jorge Medina
+BT 413_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 122,Robert Stein
+BT 425_A,"Friday, May 10, 2024",7:00 PM,10:00 PM,Babbio 319,Jonathan Kaufman
+BT 425_B,"Friday, May 10, 2024",7:00 PM,10:00 PM,"Babbio 320, 321",Jonathan Kaufman
+BT 426_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Babbio 319,Jonathan Kaufman
+BT 442_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 330,Stefano Bonini
+BT 445_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Burchard 104,Hyewon Oh
+CE 240_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway South 122,Santhi Sri Jagupilla
+CE 240_B,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway South 122,Santhi Sri Jagupilla
+CE 261_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Babbio 104,Khondokar Billah
+CE 304_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway North 103,Marouane Temimi
+CE 322_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Peirce 120,Yi Bao
+CE 342_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Burchard 104,An Wang
+CE 365_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Burchard 104,Kaijian Liu
+CE 373_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 229A,Khondokar Billah
+CE 399_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,Gateway South 021,Mohammad Ilbeigi
+CE 399_B,"Monday, May 6, 2024",3:00 PM,6:00 PM,Burchard 715,Mohammad Ilbeigi
+CE 483_A,"Friday, May 10, 2024",8:00 AM,11:00 AM,Gateway South 216,Santhi Sri Jagupilla
+CE 484_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Peirce 120,Weina Meng
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+CE 486_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 230,Ronghuan Xu
+CE 530_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 304,Dimitri Donskoy
+CE 537_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Babbio 219,Mohammad Jamous
+CE 546_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Gateway South 024,Kaijian Liu
+CE 578_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,McLean 105,Jon Miller
+CE 621_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 310,Ronghuan Xu
+CE 681_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Burchard 514,Tom Panayotidi
+CH 115_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,McLean 104,Anju Sharma
+CH 116_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,Babbio 104,Jeffrey Raab
+CH 116_B,"Monday, May 6, 2024",3:00 PM,6:00 PM,Burchard 111,Rahul Khade
+CH 116_C,"Monday, May 6, 2024",3:00 PM,6:00 PM,Gateway South 216,Patricia Anne Muisener
+CH 116_D,"Monday, May 6, 2024",3:00 PM,6:00 PM,Babbio 104,Jeffrey Raab
+CH 116_F,"Monday, May 6, 2024",3:00 PM,6:00 PM,Burchard 111,Rahul Khade
+CH 116_S,"Monday, May 6, 2024",3:00 PM,6:00 PM,McLean 104,Anju Sharma
+CH 244_A,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Gateway South 122,Abhishek Sharma
+CH 321_A,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Gateway South 021,Jeffrey Raab
+CH 412_A,"Saturday, May 4, 2024",11:30 AM,2:30 PM,Burchard 430,Sunil Paliwal
+CH 461_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Gateway South 024,Athula Attygalle
+CH 509_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Gateway South 216,Geatesh Tampy
+CH 520_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Peirce 116,Rahul Khade
+CH 520_A_U,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Peirce 116,Rahul Khade
+CH 581_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Peirce 120,Nicholas Murgolo
+CH 581_A_U,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Peirce 120,Nicholas Murgolo
+CH 582_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Burchard 104,Kwahun Lee
+CH 582_A_U,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Burchard 104,Kwahun Lee
+CH 662_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Gateway South 025,Athula Attygalle
+CH 669_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 310,Yong Zhang
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+CH 685_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Gateway North 213,Sesha Sridevi Alluri
+CHE 233_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 230,Benjamin Paren
+CHE 322_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Gateway North 204,Yujun Zhao
+CHE 342_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,McLean 106,Adeniyi Lawal
+CHE 345_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 230,Simon Podkolzin
+CHE 351_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 330,Pin-Kuang Lai
+CHE 424_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,McLean 106,Yujun Zhao
+CHE 509_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Gateway South 216,Geatesh Tampy
+CHE 535_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,McLean 105,Leonid Shnayder
+CHE 543_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,North Building 104,Jose Tabora
+CHE 560_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 329,Pinar Akcora
+CHE 633_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Peirce 216,Pin-Kuang Lai
+CHE 650_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Peirce 220,Alyssa Hensley
+CM 501_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,McLean 211,Karim Karam
+CM 512_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Peirce 120,Karim Karam
+CM 529_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Kidde 360,Mohammad Ilbeigi
+CM 550_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 210,James Valenti
+CM 587_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 025,Angelo Elmi
+CM 592_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 122,Karim Karam
+CM 605_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 229,Joseph Schwed
+CPE 181_A,"Saturday, May 4, 2024",3:00 PM,6:00 PM,McLean 114,Yu-Dong Yao
+CPE 345_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,McLean 211,Cristina Comaniciu
+CPE 345_B,"Monday, May 13, 2024",7:00 PM,10:00 PM,Gateway South 021,Shirantha Welikala
+CPE 359_B,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Peirce 120,Rod Kim
+CPE 360_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Martha Bayard Stevens 104,Md Abu Sayeed
+CPE 390_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Kidde 360,Bernard Yett
+CPE 441_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,McLean 106,Tewodros Zewde
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+CPE 442_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Gateway South 216,Samuel Kim
+CPE 462_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,McLean 104,Hong Man
+CPE 471_A,"Friday, May 10, 2024",3:00 PM,6:00 PM,McLean 114,Robert Pastore
+CPE 487_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Library B15,Bernard Yett
+CPE 488_A,"Friday, May 10, 2024",3:00 PM,6:00 PM,Babbio 104,Reza Peyrovian
+CPE 490_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 220,Xiaojiang Du
+CPE 517_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 330,Md Abu Sayeed
+CPE 548_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,McLean 414,Hongbin Li
+CPE 550_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Peirce 116,Xiaodong Yu
+CPE 551_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Joseph Helsing
+CPE 551_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Joseph Helsing
+CPE 551_C,"Monday, May 13, 2024",11:30 AM,2:30 PM,Kidde 360,Joseph Helsing
+CPE 552_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Burchard 714,Md Abu Sayeed
+CPE 555_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,McLean 211,Tewodros Zewde
+CPE 556_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Library B12,Mahmoud Al-Quzwini
+CPE 590_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,North Building 105,In Suk Jang
+CPE 593_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway South 122,Md Abu Sayeed
+CPE 602_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Burchard 430,Koduvayur Subbalakshmi
+CPE 631_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Babbio 202,Yi Guo
+CPE 646_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Gateway North 204,Hong Man
+CPE 690_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,North Building 105,Zhuo Feng
+CPE 695_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Burchard 111,Shucheng Yu
+CPE 695_B,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway North 204,Jiarui Li
+CPE 810_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Morton 105,Zhuo Feng
+CS 115_A,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Gateway North 103,Erisa Terolli
+CS 115_QA,"Friday, May 10, 2024",11:30 AM,2:30 PM,Gateway North 103,Kevin Ryan
+CS 135_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Gateway South 122,William Eiers
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+CS 135_B,"Monday, May 13, 2024",8:00 AM,11:00 AM,Gateway South 122,Jacek Ossowski
+CS 135_C,"Monday, May 13, 2024",8:00 AM,11:00 AM,Kidde 228,Jacek Ossowski
+CS 135_D,"Monday, May 13, 2024",8:00 AM,11:00 AM,Burchard 111,Jacek Ossowski
+CS 188_A,"Saturday, May 11, 2024",3:00 PM,6:00 PM,Burchard 102,Erisa Terolli
+CS 284_C,"Saturday, May 4, 2024",11:30 AM,2:30 PM,Kidde 228,Zumrut Akcam-Kibis
+CS 284_D,"Saturday, May 4, 2024",3:00 PM,6:00 PM,Burchard 104,Abrar Alrumayh
+CS 284_E,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Burchard 103,Abrar Alrumayh
+CS 284_F,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Burchard 103,Abrar Alrumayh
+CS 284_QA,"Monday, May 6, 2024",8:00 AM,11:00 AM,Gateway South 216,Patrick Zielinski
+CS 347_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Kidde 228,Reza Peyrovian
+CS 347_B,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Burchard 111,Reza Peyrovian
+CS 385_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Kidde 360,Christian Lim
+CS 392_E,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Babbio 321,Philippos Mordohai
+CS 396_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Carnegie 316,Tegan Brennan
+CS 442_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Gateway South 216,Samuel Kim
+CS 488_A,"Friday, May 10, 2024",3:00 PM,6:00 PM,Babbio 104,Reza Peyrovian
+CS 492_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Kidde 228,Philippe Meunier
+CS 492_B,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Kidde 228,Philippe Meunier
+CS 492_C,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Kidde 228,Philippe Meunier
+CS 492_D,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Kidde 228,Philippe Meunier
+CS 496_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Babbio 122,Eduardo Bonelli
+CS 496_B,"Saturday, May 4, 2024",3:00 PM,6:00 PM,Gateway South 216,Eduardo Bonelli
+CS 496_C,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Burchard 111,Eduardo Bonelli
+CS 496_D,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Burchard 111,Eduardo Bonelli
+CS 501_A,"Monday, May 6, 2024",7:00 PM,10:00 PM,North Building 105,Edward Banduk
+CS 501_B,"Monday, May 6, 2024",7:00 PM,10:00 PM,Babbio 321,Edward Banduk
+CS 505_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Carnegie 315,Dilip Krishnaswamy
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+CS 513_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Gateway South 216,Khashayar Dehnad
+CS 513_B,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Kidde 228,Khashayar Dehnad
+CS 515_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,McLean 114,Michael Greenberg
+CS 516_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Burchard 104,Eric Koskinen
+CS 521_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 122,Moshiur Rahman
+CS 525_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Gateway South 024,Michael Greenberg
+CS 532_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Burchard 111,Enrique Dunn
+CS 541_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 222,Zhaozhuo Xu
+CS 541_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 230,Xueqing Liu
+CS 545_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Library B15,Jonggi Hong
+CS 550_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Peirce 116,Xiaodong Yu
+CS 556_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Gateway South 216,Erisa Terolli
+CS 556_C,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Burchard 103,Nikhil Muralidhar
+CS 559_B,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Carnegie 316,Ping Wang
+CS 560_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Peirce 120,Jie Shen
+CS 561_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 222,Samuel Kim
+CS 561_B,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Howe 104,Samuel Kim
+CS 562_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Gateway North 204,Samuel Kim
+CS 570_B,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Howe 104,Reza Peyrovian
+CS 573_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Burchard 111,Edward Amoroso
+CS 576_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,North Building 102,Antonio Nicolosi
+CS 583_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Gateway North 204,Tian Han
+CS 583_B,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Babbio 104,Tian Han
+CS 584_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 104,Yue Ning
+CS 589_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Burchard 103,Xueqing Liu
+CS 590_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,North Building 105,In Suk Jang
+CS 593_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 330,Khashayar Dehnad
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+CS 601_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Gateway South 121,Antonio Nicolosi
+CS 615_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Babbio 210,Jan Schaumann
+CS 810_E,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Howe 303 (Fielding),Tegan Brennan
+ECON 242_A,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Babbio 319,Joelle Saad-Lessler
+EE 250_A,"Monday, May 13, 2024",3:00 PM,6:00 PM,Babbio 321,Tewodros Zewde
+EE 345_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,McLean 211,Cristina Comaniciu
+EE 345_B,"Monday, May 13, 2024",7:00 PM,10:00 PM,Gateway South 021,Shirantha Welikala
+EE 348_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,McLean 414,Elnaz Banan Sadeghian
+EE 359_B,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Peirce 120,Rod Kim
+EE 390_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Kidde 360,Bernard Yett
+EE 441_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,McLean 106,Tewodros Zewde
+EE 448_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Morton 205,Bernard Yett
+EE 462_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,McLean 104,Hong Man
+EE 465_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,McLean 114,Tewodros Zewde
+EE 471_A,"Friday, May 10, 2024",3:00 PM,6:00 PM,McLean 114,Robert Pastore
+EE 478_A,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Burchard 104,Yi Guo
+EE 489_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Burchard 430,Lei Wu
+EE 509_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Peirce 220,Christopher Search
+EE 516_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 231,Marvin Hutt
+EE 517_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 330,Md Abu Sayeed
+EE 542_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,ABS Engineering Center 301,Adam Overvig
+EE 548_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,McLean 414,Hongbin Li
+EE 551_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Joseph Helsing
+EE 551_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Joseph Helsing
+EE 551_C,"Monday, May 13, 2024",11:30 AM,2:30 PM,Kidde 360,Joseph Helsing
+EE 552_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Burchard 714,Md Abu Sayeed
+EE 553_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Burchard 715,Joseph Helsing
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+EE 556_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Library B12,Mahmoud Al-Quzwini
+EE 575_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 202,Lei Wu
+EE 602_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 414,Bernard Yett
+EE 605_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Carnegie 315,Dilip Krishnaswamy
+EE 609_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Peirce 220,Jack Winters
+EE 627_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Carnegie 316,Yu-Dong Yao
+EE 631_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Babbio 202,Yi Guo
+EE 695_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Burchard 111,Shucheng Yu
+EE 695_B,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway North 204,Jiarui Li
+EM 322_A,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Babbio 320,Hao Chen
+EM 385_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Gateway South 025,Ting Liao
+EM 509_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Gateway South 216,Geatesh Tampy
+EM 622_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway North 213,Jose Ramirez-Marquez
+EM 624_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 220,Carlo Lipizzi
+EMT 638_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 203,Aanand Goel
+EN 365_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Burchard 104,Kaijian Liu
+EN 377_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,North Building 104,Xiaoguang Meng
+EN 379_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway South 121,Xiaoguang Meng
+EN 506_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 105,Mohammed Sidhoum
+EN 506_A_U,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 105,Mohammed Sidhoum
+EN 541_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Burchard 430,Tsan-Liang Su
+EN 541_A_U,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Burchard 430,Tsan-Liang Su
+EN 553_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 204,Cheng Chen
+EN 571_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 210,Christos Christodoulatos
+EN 571_A_U,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 210,Christos Christodoulatos
+EN 587_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 025,Angelo Elmi
+ENGR 211_A,"Saturday, May 4, 2024",11:30 AM,2:30 PM,Burchard 103,Chaitanya Krishna Vallabh
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+ENGR 211_C,"Saturday, May 4, 2024",11:30 AM,2:30 PM,Burchard 103,Johannes Weickenmeier
+ENGR 212_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Kidde 228,Joseph Miles
+ENGR 212_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Kidde 228,Joseph Miles
+ENGR 212_C,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Babbio 122,Joseph Miles
+ENGR 212_D,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Babbio 104,Mahmoud Al-Quzwini
+ENGR 234_A,"Monday, May 6, 2024",11:30 AM,2:30 PM,Burchard 111,Zahra Pournorouz
+ENGR 234_C,"Monday, May 6, 2024",11:30 AM,2:30 PM,Burchard 111,Chang-Hwan Choi
+ENGR 234_E,"Monday, May 6, 2024",11:30 AM,2:30 PM,Gateway South 122,Zahra Pournorouz
+ENGR 241_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Online,Sarath Chandra Kumar Jagupilla
+ENGR 241_B,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Online,Sarath Chandra Kumar Jagupilla
+ENGR 241_WS,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Online,Sarath Chandra Kumar Jagupilla
+ENGR 241_WS1,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Online,Sarath Chandra Kumar Jagupilla
+ENGR 241_WS2,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Online,Sarath Chandra Kumar Jagupilla
+ENGR 241_WS3,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Online,Sarath Chandra Kumar Jagupilla
+ENGR 245_A,"Friday, May 10, 2024",8:00 AM,11:00 AM,Gateway South 122,Mahmoud Al-Quzwini
+ENGR 245_B,"Friday, May 10, 2024",8:00 AM,11:00 AM,Gateway South 122,Mahmoud Al-Quzwini
+ENGR 311_A,"Friday, May 10, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 222,Sarah Goodman
+ENGR 311_B,"Friday, May 10, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 222,Jacob Gissinger
+ENGR 355_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 222,Philip Odonkor
+FA 636_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Babbio 432 (Hanlon Financial Syste,Majeed Simaan
+FE 517_A,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Burchard 102,Khashayar Dehnad
+FE 610_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 432 (Hanlon Financial Syste,Thomas Lonon
+FIN 510_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Gateway South 122,Frank Manzi
+FIN 510_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 122,Frank Manzi
+FIN 515_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Howe 102,Joon Ho Kong
+FIN 515_B,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Kidde 360,Frank Manzi
+FIN 515_C,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 329,Ryan Wynne
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+FIN 627_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Carnegie 315,Emmanuel Hatzakis
+FIN 628_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Carnegie 316,Emmanuel Hatzakis
+FIN 638_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 203,Aanand Goel
+HAR 280_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,ABS Engineering Center 301,Diana Bush
+HAR 280_B,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Morton 324,Elizabeth Frasco
+HAR 281_A,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Burchard 430,Elizabeth Frasco
+HAR 380_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Morton 105,Diana Bush
+HHS 126_A,"Saturday, May 4, 2024",3:00 PM,6:00 PM,Peirce 218,Lindsey Swindall
+HHS 130_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,Peirce 220,Donna Bilak
+HHS 130_B,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Peirce 220,Donna Bilak
+HHS 135_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Morton 105,Metin Teke
+HHS 135_B,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Morton 105,Metin Teke
+HHS 195_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,Kidde 390,Mario Diaz de Leon
+HHS 210_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Gateway North 213,Samantha Muka
+HHS 280_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,ABS Engineering Center 301,Diana Bush
+HHS 280_B,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Morton 324,Elizabeth Frasco
+HHS 281_A,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Burchard 430,Elizabeth Frasco
+HHS 323_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Peirce 218,Lindsey Swindall
+HHS 370_EV,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Morton 324,Adam Elewa
+HHS 395_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Morton 105,Diana Bush
+HLI 114_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Babbio 203,Jason Vredenburg
+HLI 118_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Altorfer 501,Benjamin Ogden
+HLI 220_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Peirce 220,Virginia Conn
+HLI 302_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Burchard 714,Anthony Pennino
+HLI 330_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Babbio 320,Betul Cihan Artun
+HLI 341_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,North Building 104,Robin Hammerman
+HLI 354_A,"Saturday, May 11, 2024",3:00 PM,6:00 PM,Morton 324,Anthony Pennino
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+HLI 357_A,"Monday, May 13, 2024",8:00 AM,11:00 AM,Babbio 304,Jason Vredenburg
+HLI 391_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Peirce 220,Smaran Dayal
+HLI 414_A,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,North Building 103,Betul Cihan Artun
+HMU 102_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Morton 205,Aysegul Durakoglu
+HMU 102_B,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Kidde 390,William Stackpole
+HMU 195_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,Kidde 390,Mario Diaz de Leon
+HMU 334_B,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Kidde 350,Michael Flannery
+HMU 406_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Kidde 350,Michael Flannery
+HMU 450_EV,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Morton 105,Michael Guerriero
+HMU 494_EV,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Kidde 390,William Stackpole
+HPL 111_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Peirce 220,Joyce Mullan
+HPL 112_A,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,ABS Engineering Center 301,Gregory Morgan
+HPL 112_B,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Howe 104,Gregory Morgan
+HPL 112_C,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Babbio 104,Adam Blazej
+HPL 112_D,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Babbio 104,Adam Blazej
+HPL 340_A,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Babbio 204,Michael Steinmann
+HPL 340_B,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Babbio 204,Michael Steinmann
+HPL 367_EV,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Morton 324,Gregory Morgan
+HPL 369_EV,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Peirce 220,Michael Steinmann
+HPL 380_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 203,Joyce Mullan
+HPL 456_A,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Burchard 102,Nick Byrd
+HPL 456_B,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Burchard 102,Nick Byrd
+HPL 457_EV,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Morton 324,Robert Meyer
+HPL 464_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Morton 205,Joyce Mullan
+HSS 141_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Burchard 103,Yu Tao
+HSS 141_B,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Burchard 103,Yu Tao
+HSS 141_C,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Gateway North 103,KyungTek Chun
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+HSS 141_D,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Gateway North 103,KyungTek Chun
+HSS 175_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,ABS Engineering Center 301,Nicholas Jones
+HSS 175_B,"Friday, May 10, 2024",11:30 AM,2:30 PM,Babbio 310,Chelsie Burchett
+HSS 175_C,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Howe 104,Chelsie Burchett
+HSS 175_D,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Howe 104,Metin Teke
+HSS 175_E,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Babbio 220,Takeem Dean
+HSS 280_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 130,Ashley Lytle
+HSS 280_B,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 229,Ashley Lytle
+HSS 317_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Morton 324,Michael Kowal
+HSS 317_B,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Burchard 714,Paul Connor
+HSS 317_C,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Burchard 714,Paul Connor
+HSS 321_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Morton 324,Michael Kowal
+HSS 324_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Gateway North 103,KyungTek Chun
+HSS 357_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 229,Ashley Lytle
+HSS 371_A,"Friday, May 10, 2024",8:00 AM,11:00 AM,Burchard 102,Katheryn Detwiler
+HSS 371_B,"Friday, May 10, 2024",8:00 AM,11:00 AM,Babbio 104,Katheryn Detwiler
+HSS 371_C,"Friday, May 10, 2024",8:00 AM,11:00 AM,Babbio 104,Katheryn Detwiler
+HSS 371_D,"Friday, May 10, 2024",8:00 AM,11:00 AM,Burchard 103,William Lockett
+HSS 371_E,"Friday, May 10, 2024",8:00 AM,11:00 AM,Burchard 103,William Lockett
+HSS 371_F,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Morton 205,Keri Sansevere
+HSS 371_G,"Saturday, May 11, 2024",3:00 PM,6:00 PM,Peirce 218,Keri Sansevere
+HSS 401_A,"Monday, May 13, 2024",8:00 AM,11:00 AM,Morton 324,Kristyn Karl
+HSS 401_B,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Morton 324,Kristyn Karl
+HSS 477_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Babbio 220,Susan Schept
+HSS 479_A,"Monday, May 13, 2024",3:00 PM,6:00 PM,Morton 324,Yu Tao
+HST 120_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Peirce 218,William Lockett
+HST 120_B,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 230,William Lockett
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+HST 140_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Morton 324,Theresa Macphail
+HST 140_B,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Morton 324,Theresa Macphail
+HST 250_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,ABS Engineering Center 301,Theresa Macphail
+HST 250_B,"Saturday, May 4, 2024",3:00 PM,6:00 PM,Morton 105,Mel Ferrara
+HST 320_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Gateway North 213,Samantha Muka
+HST 350_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Babbio 219,Amber Benezra
+HST 350_B,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 330,Amber Benezra
+HST 360_A,"Saturday, May 4, 2024",3:00 PM,6:00 PM,Gateway North 213,Samantha Muka
+HST 401_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,ABS Engineering Center 301,John Horgan
+HST 404_A,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Morton 324,Katheryn Detwiler
+HTH 302_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Burchard 714,Anthony Pennino
+IPD 611_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Babbio 319,Kishore Pochiraju
+ISE 322_A,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Burchard 102,Hao Chen
+LCH 101_A,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Gateway South 121,Wei-Ya Wang
+LCH 102_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Morton 105,Yu-Tsui Lin
+LFR 101_A,"Friday, May 10, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 130,Celia Cachat
+LFR 101_B,"Friday, May 10, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 130,Celia Cachat
+LFR 102_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 130,Celia Cachat
+LSP 101_A,"Monday, May 6, 2024",7:00 PM,10:00 PM,Peirce 120,Zachary Balog
+LSP 101_B,"Monday, May 6, 2024",7:00 PM,10:00 PM,Peirce 120,Zachary Balog
+LSP 102_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Babbio 203,Zachary Balog
+LSP 305_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Burchard 714,Zachary Balog
+LTL 101_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Martha Bayard Stevens Hall 105,Gabrielle Sims
+MA 119_A,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,"North Building 102, 103",Paul Schwartz
+MA 119_B,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Edwin. A Stevens 230,Paul Schwartz
+MA 119_C,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,"North Building 104, 105",Paul Schwartz
+MA 122_AA,"Monday, May 13, 2024",7:00 PM,10:00 PM,Babbio 203,Chloe Weiers
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+MA 125_AA,"Monday, May 13, 2024",7:00 PM,10:00 PM,Peirce 116,Monika
+MA 126_AA,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Burchard 111,Denis Serbin
+MA 126_BB,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Burchard 111,Denis Serbin
+MA 126_CC,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Kidde 228,Daniele Alessandrini
+MA 126_DD,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Kidde 228,Daniele Alessandrini
+MA 126_EE,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Gateway South 122,Alexander Taam
+MA 126_FF,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Burchard 111,Denis Serbin
+MA 126_GG,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Gateway South 122,Alexander Taam
+MA 126_HH,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Kidde 228,Daniele Alessandrini
+MA 126_II,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Gateway South 216,Alexander Taam
+MA 126_JJ,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Gateway North 103,Eric Ramos
+MA 134_A,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Babbio 122,Alexander Ushakov
+MA 221_A,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 222,Matthew Romney
+MA 221_B,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Babbio 104,Matthew Romney
+MA 221_C,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Babbio 122,Yi Li
+MA 221_D,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Babbio 122,Yi Li
+MA 221_E,"Tuesday, May 14, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 222,Matthew Romney
+MA 222_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Laurence Russ
+MA 222_B,"Monday, May 13, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Laurence Russ
+MA 222_C,"Monday, May 13, 2024",7:00 PM,10:00 PM,Burchard 103,Hong Do
+MA 226_AA,"Saturday, May 11, 2024",8:00 AM,11:00 AM,North Building 105,Mahmood Sohrabi
+MA 226_BB,"Saturday, May 11, 2024",8:00 AM,11:00 AM,Burchard 111,Mahmood Sohrabi
+MA 226_CC,"Saturday, May 11, 2024",8:00 AM,11:00 AM,Babbio 104,Monika
+MA 231_DD,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,Babbio 122,Monika
+MA 232_A,"Monday, May 13, 2024",3:00 PM,6:00 PM,Gateway North 103,Andrey Nikolaev
+MA 232_B,"Monday, May 13, 2024",3:00 PM,6:00 PM,Gateway South 216,Andrey Nikolaev
+MA 234_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Gateway South 025,Andrey Nikolaev
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+MA 331_A,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Babbio 122,Xiaohu Li
+MA 331_B,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Babbio 122,Pedro Vilanova-Guerra
+MA 331_C,"Saturday, May 11, 2024",11:30 AM,2:30 PM,Gateway North 204,Xiaohu Li
+MA 336_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Kidde 360,Jan Cannizzo
+MA 346_A,"Wednesday, May 8, 2024",3:00 PM,6:00 PM,Edwin A. Stevens 330,Kathrin Smetana
+MA 361_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,North Building 104,Pavel Dubovski
+MA 540_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Martha Bayard Stevens Hall 203,Hadi Safari Katesari
+MA 541_A,"Monday, May 6, 2024",7:00 PM,10:00 PM,Burchard 111,Hong Do
+MA 541_B,"Monday, May 6, 2024",7:00 PM,10:00 PM,Burchard 111,Hong Do
+MA 544_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,North Building 104,Upendra Prasad
+MA 564_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,North Building 101,Alexander Ushakov
+MA 574_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,North Building 102,Upendra Prasad
+MA 576_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,Kidde 228,Pedro Vilanova-Guerra
+MA 576_C,"Monday, May 13, 2024",7:00 PM,10:00 PM,Kidde 228,Pedro Vilanova-Guerra
+MA 577_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Babbio 304,Benjamin Leinwand
+MA 606_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Morton 105,Alexei Miasnikov
+MA 623_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Peirce 216,Xiaohu Li
+MA 636_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Peirce 216,Pavel Dubovski
+MA 641_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway North 103,Hadi Safari Katesari
+MA 652_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Peirce 216,Daniele Alessandrini
+MA 662_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 204,Darinka Dentcheva
+ME 225_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,Gateway South 122,Yong Shi
+ME 225_B,"Monday, May 6, 2024",8:00 AM,11:00 AM,Kidde 360,Maxine Fontaine
+ME 234_A,"Saturday, May 4, 2024",3:00 PM,6:00 PM,Burchard 102,Shima Hajimirza
+ME 261_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Gateway North 204,Elsayed Aziz
+ME 261_B,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Babbio 104,Chaitanya Krishna Vallabh
+ME 322_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway North 204,Elsayed Aziz
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+ME 322_B,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Library B15,Maxine Fontaine
+ME 322_C,"Friday, May 10, 2024",11:30 AM,2:30 PM,Burchard 103,Maxine Fontaine
+ME 335_A,"Tuesday, May 7, 2024",8:00 AM,11:00 AM,Peirce 116,Hamid Hadim
+ME 342_A,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 222,Kevin Connington
+ME 342_B,"Saturday, May 4, 2024",8:00 AM,11:00 AM,Edwin A. Stevens 222,Kevin Connington
+ME 342_C,"Saturday, May 4, 2024",8:00 AM,11:00 AM,McLean 209,Jason Rabinovitch
+ME 345_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,Online,Frank Fisher
+ME 345_B,"Monday, May 6, 2024",3:00 PM,6:00 PM,Online,Chaitanya Krishna Vallabh
+ME 354_A,"Saturday, May 4, 2024",3:00 PM,6:00 PM,McLean 209,Annie Xian Zhang
+ME 358_A,"Saturday, May 4, 2024",11:30 AM,2:30 PM,Morton 205,Gizem Acar
+ME 361_A,"Monday, May 13, 2024",7:00 PM,10:00 PM,Kidde 360,Elsayed Aziz
+ME 483_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Online,Mishah Salman
+ME 483_B,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Online,Christopher Sugino
+ME 491_A,"Monday, May 6, 2024",7:00 PM,10:00 PM,Kidde 228,Chan Yu
+ME 491_B,"Monday, May 6, 2024",7:00 PM,10:00 PM,Kidde 228,Chan Yu
+ME 521_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 304,Dimitri Donskoy
+ME 522_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Babbio 310,Mishah Salman
+ME 532_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 105,Mohammed Sidhoum
+ME 532_A_U,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 105,Mohammed Sidhoum
+ME 535_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,McLean 105,Leonid Shnayder
+ME 545_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Burchard 514,Nicholaus Parziale
+ME 546_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 104,Siva Thangam
+ME 555_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Morton 205,Robert Lechich
+ME 561_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,North Building 101,Antonia Zaferiou
+ME 564_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Burchard 102,Chan Yu
+ME 579_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Babbio 310,Nicholaus Parziale
+ME 598_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 310,Mishah Salman
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+ME 604_A,"Friday, May 10, 2024",7:00 PM,10:00 PM,Peirce 120,Erol Cesmebasi
+ME 618_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Gateway South 121,Shima Hajimirza
+ME 631_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 130,Christophe Pierre
+ME 635_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Babbio 319,Kishore Pochiraju
+ME 636_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Burchard 514,Ali Yassine
+ME 641_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 330,Sven Esche
+ME 645_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Gateway South 123,Behzad Mottahed
+ME 650_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 203,Long Wang
+ME 652_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 219,Chan Yu
+ME 660_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Burchard 104,Jonathan Gabel
+ME 663_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Babbio 304,Sven Esche
+ME 691_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Peirce 218,Robert Chang
+MGT 699_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 321,Pranav Garg
+MGT 699_WS,"Wednesday, May 8, 2024",6:00 PM,9:00 PM,Online,Pranav Garg
+MIS 631_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Babbio 104,Joseph Morabito
+MIS 631_B,"Thursday, May 9, 2024",7:00 PM,10:00 PM,North Building 102,Joseph Morabito
+MIS 633_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Babbio 210,Joseph Morabito
+MIS 633_B,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 104,Joseph Morabito
+MIS 637_B,"Thursday, May 9, 2024",8:00 AM,11:00 AM,Howe 102,Mahmoud Daneshmand
+MT 516_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 231,Marvin Hutt
+MT 525_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Altorfer 501,Pinar Akcora
+MT 543_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,North Building 104,Jose Tabora
+MT 602_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 229,Jae Chul Kim
+MT 650_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Martha Bayard Stevens Hall 107,Sarah Goodman
+MT 690_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,North Building 105,Zhuo Feng
+NANO 525_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Altorfer 501,Pinar Akcora
+NANO 571_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 210,Christos Christodoulatos
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+NANO 571_A_U,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Babbio 210,Christos Christodoulatos
+NE 224_A,"Thursday, May 9, 2024",11:30 AM,2:30 PM,Gateway North 213,An Wang
+NE 322_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,North Building 101,Michael DeLorme
+OE 501_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Morton 105,Reza Marsooli
+OE 520_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway North 213,Muhammad Hajj
+OE 520_A_U,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Gateway North 213,Muhammad Hajj
+PEP 111_A,"Friday, May 10, 2024",7:00 PM,10:00 PM,Kidde 228,Xiaoyang Huang
+PEP 111_B,"Friday, May 10, 2024",7:00 PM,10:00 PM,Burchard 111,Matthew Coleman
+PEP 111_C,"Friday, May 10, 2024",7:00 PM,10:00 PM,Burchard 111,Debing Zeng
+PEP 111_D,"Friday, May 10, 2024",7:00 PM,10:00 PM,Kidde 228,Samuel Hedemann
+PEP 111_E,"Friday, May 10, 2024",7:00 PM,10:00 PM,Kidde 228,Matthew Coleman
+PEP 111_S,"Friday, May 10, 2024",7:00 PM,10:00 PM,Burchard 104,Vladimir Lukic
+PEP 112_A,"Friday, May 10, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Robert Pastore
+PEP 112_B,"Friday, May 10, 2024",7:00 PM,10:00 PM,Gateway South 122,Robert Pastore
+PEP 112_D,"Friday, May 10, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Robert Pastore
+PEP 112_E,"Friday, May 10, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 222,Edward Whittaker
+PEP 112_S,"Friday, May 10, 2024",7:00 PM,10:00 PM,Burchard 714,Christopher Search
+PEP 123_A,"Tuesday, May 14, 2024",11:30 AM,2:30 PM,Burchard 514,Igor Pikovski
+PEP 151_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 222,Matthew Coleman
+PEP 151_B,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Burchard 517,Ting Lu
+PEP 152_A,"Friday, May 10, 2024",11:30 AM,2:30 PM,Carnegie 315,Vladimir Lukic
+PEP 201_A,"Wednesday, May 8, 2024",11:30 AM,2:30 PM,Gateway South 122,Samuel Hedemann
+PEP 209_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Gateway South 121,Stefan Strauf
+PEP 242_A,"Saturday, May 4, 2024",7:00 PM,10:00 PM,Burchard 103,Samuel Hedemann
+PEP 305_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Morton 205,Vladimir Lukic
+PEP 336_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Burchard 517,Ting Lu
+PEP 369_A,"Tuesday, May 7, 2024",3:00 PM,6:00 PM,North Building 102,Xiaofeng Qian
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+PEP 509_A,"Thursday, May 9, 2024",3:00 PM,6:00 PM,Peirce 220,Christopher Search
+PEP 516_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 231,Marvin Hutt
+PEP 528_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway South 121,Vladimir Lukic
+PEP 542_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,ABS Engineering Center 301,Adam Overvig
+PEP 642_A,"Saturday, May 11, 2024",3:00 PM,6:00 PM,Babbio 310,Xiaofeng Qian
+PEP 644_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,Edwin A. Stevens 231,Chunlei Qu
+PEP 690_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,North Building 105,Zhuo Feng
+PEP 777_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Babbio 202,Svetlana Malinovskaya
+PME 535_A,"Thursday, May 9, 2024",8:00 AM,11:00 AM,McLean 105,Leonid Shnayder
+PME 555_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Morton 205,Robert Lechich
+PME 660_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Burchard 104,Jonathan Gabel
+QF 102_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,Gateway South 122,George Calhoun
+QF 102_B,"Monday, May 6, 2024",3:00 PM,6:00 PM,Babbio 432 (Hanlon Financial Syste,George Calhoun
+QF 102_C,"Monday, May 6, 2024",3:00 PM,6:00 PM,Babbio 111 (Hanlon II),George Calhoun
+QF 112_A,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Babbio 122,Thomas Lonon
+QF 112_B,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Babbio 122,Thomas Lonon
+QF 112_C,"Wednesday, May 8, 2024",8:00 AM,11:00 AM,Babbio 122,Anthony Diaco
+QF 202_A,"Tuesday, May 7, 2024",11:30 AM,2:30 PM,Kidde 228,Ionut Florescu
+QF 343_A,"Monday, May 6, 2024",3:00 PM,6:00 PM,Babbio 122,Thomas Lonon
+QF 343_B,"Monday, May 6, 2024",3:00 PM,6:00 PM,Babbio 122,Thomas Lonon
+SM 509_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Gateway South 216,Geatesh Tampy
+SM 530_A,"Tuesday, May 7, 2024",7:00 PM,10:00 PM,Edwin A. Stevens 229,Rosita Nunez
+SM 531_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,ABS Engineering Center 301,George Korfiatis
+SM 587_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 025,Angelo Elmi
+SSW 322_A,"Monday, May 6, 2024",8:00 AM,11:00 AM,McLean 211,Jacqueline Libby
+SSW 533_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 106,Richard Ens
+SSW 533_A_U,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,McLean 106,Richard Ens
+Course and Section,Day and Date,Start Time,End Time,Building and Room(s),Instructor
+SSW 564_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 024,David Darian Muresan
+SSW 564_A_U,"Thursday, May 9, 2024",7:00 PM,10:00 PM,Gateway South 024,David Darian Muresan
+SSW 565_A,"Monday, May 13, 2024",11:30 AM,2:30 PM,McLean 414,David Darian Muresan
+SSW 567_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway South 025,Razieh Saremi
+SSW 567_A_U,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway South 025,Razieh Saremi
+SYS 611_A,"Saturday, May 11, 2024",7:00 PM,10:00 PM,Gateway South 121,Amro Farid
+SYS 622_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Gateway North 213,Jose Ramirez-Marquez
+SYS 624_A,"Wednesday, May 8, 2024",7:00 PM,10:00 PM,Babbio 220,Carlo Lipizzi
+SYS 660_A,"Thursday, May 9, 2024",7:00 PM,10:00 PM,North Building 105,Safa Elkefi
+SYS 681_A,"Tuesday, May 14, 2024",3:00 PM,6:00 PM,Gateway North 103,Roshanak Nilchiani
