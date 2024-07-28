@@ -3,11 +3,11 @@ const route = express.Router();
 const { Pool } = require('pg');
 
 const pool = new Pool({
-    user: process.env.DB_USER,
-    host: process.env.DB_HOST,
-    database: "finals_database",
-    password: process.env.DB_PASSWORD,
-    port: process.env.DB_PORT
+    user: "exam_finder_db_user",
+    host: "dpg-cqipgr6ehbks73c1fki0-a",
+    database: "exam_finder_db",
+    password: "iKkQmkZaShmmTe5cMYjO06t1CUWEDzmM",
+    port: 5432
 });
 
 route.get('/:cls/:section', async (req, res) => {
