@@ -12,8 +12,13 @@
     "@types/react-dom": "^18.3.0",
     "cors": "^2.8.5",
     "express": "^4.19.2",
+<<<<<<< HEAD
     "fast-csv": "^5.0.1",
     "node": "^20.16.0",
+=======
+    "gapi-script": "^1.2.0",
+    "fast-csv": "^5.0.1",
+>>>>>>> e5b492f (version idk)
     "nodemon": "^3.1.4",
     "pg": "^8.12.0",
     "react": "^18.3.1",
