@@ -99,7 +99,10 @@ function App() {
       <div id="outputSection">
         {
           Object.keys(outputData).length > 0 ? 
-          <h1>{outputData['day_date']}, {outputData['building_room']}</h1> :
+          <div>
+            <h1>{outputData['day_date']}, {outputData['building_room']}</h1>
+            <h1>{outputData['start_time']}, {outputData['end_time']}</h1>
+          </div> :
           ""
         }
       </div>
