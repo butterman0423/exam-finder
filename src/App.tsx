@@ -64,7 +64,6 @@ function App() {
         console.log(json);
 
         setOutputData(<GetFinal classname={ json['day_date'] } section={ json['building_room'] } />)
-        setFinalData({ ...finalData, classInput: '', sectionInput: '' })
     } catch(e) {
       console.error(e);
     }
