@@ -1,10 +1,9 @@
 import React from 'react';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
 
-const getFinalsData = async (e:any) => {
+const getFinalsData = async () => {
   try {
-    e.preventDefault();
     const response = await fetch("https://localhost:3000/api/finals/BIA 500/A");
     const data = await response.json();
     console.log(data);
@@ -39,6 +38,10 @@ function App() {
     sectionInput: "",
   });
   const [outputData, setOutputData] = useState<React.ReactNode>(null)
+
+  useEffect(() => {
+    getFinalsData();
+  })
 
   const handleChange = (e: any) => {
     const {name, value} = e.target;
