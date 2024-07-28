@@ -6,12 +6,14 @@ const fastcsv = require("fast-csv");
 let stream = fs.createReadStream('spring24.csv');
 
 let pool = new Pool({
-    user: process.env.DB_USER,
-    host: process.env.DB_HOST,
-    password: process.env.DB_PASSWORD,
-    port: process.env.DB_PORT
+    user: "exam_finder_db_user",
+    host: "dpg-cqipgr6ehbks73c1fki0-a",
+    database: "exam_finder_db",
+    password: "iKkQmkZaShmmTe5cMYjO06t1CUWEDzmM",
+    port: 5432
 });
 
+/*
 const createAndFillTable = async () => {
     try {
         const result = await pool.query(`SELECT 1 FROM pg_database WHERE datname=$1`, ['finals_database']);
@@ -83,3 +85,6 @@ const createAndFillTable = async () => {
 };
 
 module.exports = { pool, createAndFillTable };
+*/
+
+module.exports = { pool };
