@@ -58,7 +58,7 @@ function App() {
     
     try {
         const classInput2 = classInput.replace(/([A-Z])-?([0-9])/,"$1 $2");
-        const dat = await fetch(`/api/finals/${classInput}/${sectionInput}`);
+        const dat = await fetch(`/api/finals/${classInput2}/${sectionInput}`);
         const json = await dat.json();
 
         console.log(json);
