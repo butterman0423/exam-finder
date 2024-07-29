@@ -39,7 +39,6 @@ function App() {
     sectionInput: "",
   });
   const [outputData, setOutputData] = useState<{ [key: string]: string }>({})
-
   /*
   useEffect(() => {
     getFinalsData();
@@ -58,6 +57,7 @@ function App() {
     const { classInput, sectionInput } = finalData;
     
     try {
+        const classInput2 = classInput.replace(/([A-Z])-?([0-9])/,"$1 $2");
         const dat = await fetch(`/api/finals/${classInput}/${sectionInput}`);
         const json = await dat.json();
 
